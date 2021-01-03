@@ -10,7 +10,6 @@ int main() {
 	int n;
 	cin >> n;
 	int numbers[n];
-//	cout << sizeof(numbers)/sizeof(numbers[0])<<"\n";
 
 	if(n == 1){ cout << 1; return 0;}
 	if(n < 4){
@@ -19,8 +18,6 @@ int main() {
 	}
 	//split into halves
 	int lFirst = ceil((double)n / 2), lSecond = n / 2;
-//	cout << " f " << lFirst << "\n";
-//	cout << " s " << lSecond << "\n";
 	int number;
 	if(n > 4)
 		number = 1;
@@ -30,7 +27,6 @@ int main() {
 		numbers[i] = number;
 		number += 2;
 	}
-//	cout << lFirst << "\n";
 
 	if(n>4)
 		number = 2;

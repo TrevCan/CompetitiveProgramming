@@ -1,0 +1,29 @@
+Problemas Concurso las12uvas.es (Año Nuevo 2020) (http://las12uvas.es/2020/#/problems)
+
+A	  Encuesta comprometedora	1
+B	  Duración de bombillas LED	1
+C	  El reto del reloj programable	1
+D	  Colección de calendarios de bolsillo	1
+E	  Gorros de colores	1
+F	  Velas binarias	1
+G	  Igualando copas	2
+H	  A caballo por el viñedo	2
+I	  Dendrocronología	2
+J	  Anteproyecto de los presupuestos	3
+K	  Pruebas en lotes	3
+L	  El torneo de los Tres Magos	3
+
+*** hechos
+
+*** A Encuesta comprometedora 1
+*** B Duración de bombillas LED	1
+*** C El reto del reloj programable	1
+*** D Colección de calendarios de bolsillo	1
+*** E Gorros de colores 1
+*** F Velas binarias 1
+*** G Igualando copas 2
+H	  A caballo por el viñedo 2
+I	  Dendrocronología 2
+J	  Anteproyecto de los presupuestos 3
+K	  Pruebas en lotes 3
+L	  El torneo de los Tres Magos 3
