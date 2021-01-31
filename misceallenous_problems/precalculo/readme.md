@@ -24,5 +24,7 @@ Por cada caso después de `P` se muestra la sumatoria desde el arreglo en la pos
 **Límites**
 
 La sumatoria máxima no dará más que 2147483647 (2,147'483,647)
+
 `N` no será mayor a 10000 (10,000)
+
 `P` no será mayor a 1000 (1,000)
