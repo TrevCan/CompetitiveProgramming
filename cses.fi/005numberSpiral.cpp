@@ -11,10 +11,10 @@ int main(){
 //		cout << x << " " << y << "\n";
 		
 		//max of x and y
-		long long int z = max(x,y);
-		long long int lc = pow( (z-1), 2) + 1;
+		long long int z = x > y ? x : y;
+		long long int lc = (z-1)*(z-1) + 1;
 		long long int rc = z*z;
-		int dir = 1;
+		long long int dir = 1;
 		if(z%2 == 0) swap(lc,rc);
 		else dir = -1;
 
@@ -24,10 +24,10 @@ int main(){
  * 		cout << "n " << n << "\n";
  * 
  */
-		if(x>y)
-			cout << "1 ";
-		else
-			cout << "0 ";
+//		if(x>y)
+//			cout << "1 ";
+//		else
+//			cout << "0 ";
 		if(x>y) cout << (long long int)rc+(long long int)(dir* (y-1)) << "\n";
 		else cout << (long long int)lc-(long long int)(dir* (x-1)) << "\n";
 

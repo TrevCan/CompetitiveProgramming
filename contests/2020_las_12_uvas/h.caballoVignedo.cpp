@@ -25,7 +25,7 @@ int main(){
 	ios_base::sync_with_stdio(0);cin.tie(0);cout.tie(0);
 
 	cin >> c >> goal;
-	while(c != 0){
+	while(c != 0 && goal != 0){
 		long long int rac[c];
 		for(long long int i=0; i < c; i++){
 //			cout << "WAITING for in...\n";
